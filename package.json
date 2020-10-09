@@ -1,0 +1,20 @@
+{
+  "name": "abotisamongus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kippygaming/abotisamongus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kippygaming/abotisamongus/issues"
+  },
+  "homepage": "https://github.com/kippygaming/abotisamongus#readme"
+}
